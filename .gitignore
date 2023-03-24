@@ -1,0 +1,25 @@
+# cmake directory
+build/
+
+# vim
+*~
+compile_commands.json
+*.swp
+
+# vscode
+.vscode/
+
+# clangd
+.clangd/
+
+# log dir
+**/log/
+**/logs/
+nohup.out
+
+# output dir
+**/output/
+
+# docker volume
+docker_volume/
+
